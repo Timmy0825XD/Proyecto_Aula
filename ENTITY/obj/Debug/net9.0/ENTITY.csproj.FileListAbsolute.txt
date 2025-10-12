@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\bin\Debug\net9.0\ENTITY.deps.json
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\bin\Debug\net9.0\ENTITY.dll
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\bin\Debug\net9.0\ENTITY.pdb
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.AssemblyInfo.cs
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.dll
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\refint\ENTITY.dll
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.pdb
+C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ref\ENTITY.dll
