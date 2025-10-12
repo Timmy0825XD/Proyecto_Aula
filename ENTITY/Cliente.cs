@@ -8,6 +8,6 @@ namespace ENTITY
 {
     public class Cliente
     {
-
+        public string nombre_cliente { get; set; }
     }
 }
