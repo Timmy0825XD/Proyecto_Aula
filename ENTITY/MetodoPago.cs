@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ENTITY
 {
-    internal class Barrios
+    public class MetodoPago
     {
-        public string Id_barrios { get; set; }
-
-        public string Nombre { get; set; }
+        public int IdMetodoPago { get; set; }
+        public string NombreMetodo { get; set; }
     }
 }

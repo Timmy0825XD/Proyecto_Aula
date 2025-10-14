@@ -8,15 +8,12 @@ namespace ENTITY
 {
     public class Cliente
     {
-        public string Cedula { get; set; }
-        public string Nombre_cliente { get; set; }
-        public string Primer_nombre { get; set; }
-        public string Segundo_nombre { get; set; }
-        public string Primer_apellido { get; set; }
-        public string Segundo_apellido { get; set; }
-        public int Telefono { get; set; }
-        public string Correo { get; set; }
-        public string Direccion { get; set; }
-
+        public int IdCliente { get; set; }
+        public Usuario Usuario { get; set; }
+        public string Nombre { get; set; }
+        public string ApellidoPaterno { get; set; }
+        public string ApellidoMaterno { get; set; }
+        public string TelefonoPrincipal { get; set; }
+        public string TelefonoSecundario { get; set; }
     }
 }
