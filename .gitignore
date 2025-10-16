@@ -1,0 +1,60 @@
+# Archivos de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+out/
+
+# Configuración local de VS
+.vs/
+*.vscode/
+
+# Archivos de build
+[Bb]uild/
+[Ll]og/
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de dependencias de paquetes
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Archivos generados automáticamente
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+
+# Configuración local
+launchSettings.json
+
+# Cobertura de pruebas y reportes
+*.coverage
+*.coveragexml
+TestResult*/
+
+# Archivos de publicación
+publish/
+*.publish.xml
+
+# Archivos del entorno JetBrains Rider (si lo usas)
+.idea/
+*.sln.iml
