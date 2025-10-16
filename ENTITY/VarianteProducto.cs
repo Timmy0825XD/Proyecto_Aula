@@ -8,7 +8,7 @@ namespace ENTITY
 {
     public class VarianteProducto
     {
-        public int IdVariante { get; set; }
+        public string IdVariante { get; set; }
         public Producto Producto { get; set; }
         public string Talla { get; set; }
         public string Color { get; set; }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QLaCJqeHsiE=",
+  "dgSpecHash": "aDTLRBotHvk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\VS C#\\PROYECTO_AULA\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.jsinterop\\9.0.9\\microsoft.jsinterop.9.0.9.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.9\\microsoft.jsinterop.webassembly.9.0.9.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.9\\microsoft.net.sdk.webassembly.pack.9.0.9.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.9\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.9.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.10\\microsoft.net.sdk.webassembly.pack.9.0.10.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.10.nupkg.sha512"
   ],
   "logs": []
 }

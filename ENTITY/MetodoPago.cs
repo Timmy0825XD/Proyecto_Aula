@@ -8,7 +8,7 @@ namespace ENTITY
 {
     public class MetodoPago
     {
-        public int IdMetodoPago { get; set; }
+        public string IdMetodoPago { get; set; }
         public string NombreMetodo { get; set; }
     }
 }

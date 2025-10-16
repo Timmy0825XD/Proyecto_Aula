@@ -8,7 +8,7 @@ namespace ENTITY
 {
     public class DetalleFactura
     {
-        public int IdDetalle { get; set; }
+        public string IdDetalle { get; set; }
         public Factura Factura { get; set; }
         public VarianteProducto VarianteProducto { get; set; }
         public decimal PrecioUnitario 
