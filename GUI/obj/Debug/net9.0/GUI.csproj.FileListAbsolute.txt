@@ -1125,8 +1125,6 @@ C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroo
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\DAL.lnlavvm05i.wasm
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\ENTITY.z1u12yxkt5.pdb
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\ENTITY.vlzy3u3e4b.wasm
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.hd2gi2hex4.pdb
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.3f2niah29p.wasm
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.ysqd97eroy.wasm
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.65wbz7t8mt.wasm
@@ -1442,7 +1440,6 @@ C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroo
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Immutable.hn2kphqqyx.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.IO.MemoryMappedFiles.hqsx1g6hyq.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.7a8qwg1fzw.wasm.gz
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.hd2gi2hex4.pdb.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Encoding.nrsiudkmau.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.4n446zbohc.wasm.gz
@@ -1511,7 +1508,6 @@ C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroo
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Primitives.fhyyo0saa3.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.TypeConverter.41zy6wf9oa.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Net.NetworkInformation.dggc7r1ubt.wasm.gz
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.3f2niah29p.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Private.Uri.nm30bysvuf.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Net.Security.fr36up6qj6.wasm.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\System.Xml.ReaderWriter.52jfax1tqq.wasm.gz
@@ -2206,9 +2202,6 @@ C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compre
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\br5qqhogo4-rh23iu3vl4.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\qtryj5cp77-z1u12yxkt5.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\2i4rjrk0xr-7fdkwdot5v.gz
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\w65sta19j6-3f2niah29p.gz
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\k30pgthpdc-hd2gi2hex4.gz
-C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\ox5blmgto1-vfoq9ouvtl.gz
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\staticwebassets.development.json
@@ -2219,3 +2212,10 @@ C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\GUI.dl
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\refint\GUI.dll
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\GUI.pdb
 C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\ref\GUI.dll
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.vvlnf6zbsh.pdb
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.y3msr2y4p8.wasm
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.vvlnf6zbsh.pdb.gz
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\bin\Debug\net9.0\wwwroot\_framework\GUI.y3msr2y4p8.wasm.gz
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\w65sta19j6-y3msr2y4p8.gz
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\k30pgthpdc-vvlnf6zbsh.gz
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\GUI\obj\Debug\net9.0\compressed\ox5blmgto1-mq07w0abb1.gz
