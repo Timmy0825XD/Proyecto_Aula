@@ -9,3 +9,15 @@ C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.dl
 C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\refint\ENTITY.dll
 C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ENTITY.pdb
 C:\Users\Usuario\Documents\VS C#\PROYECTO_AULA\ENTITY\obj\Debug\net9.0\ref\ENTITY.dll
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\bin\Debug\net9.0\ENTITY.deps.json
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\bin\Debug\net9.0\ENTITY.dll
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\bin\Debug\net9.0\ENTITY.pdb
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.sourcelink.json
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.dll
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\refint\ENTITY.dll
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ENTITY.pdb
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\Proyecto_Aula\ENTITY\obj\Debug\net9.0\ref\ENTITY.dll
